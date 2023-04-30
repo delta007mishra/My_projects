@@ -1,4 +1,4 @@
-# My_projects
+# Chrome Extension
 
 This is simple chrome extension.
 It fetches the live IPL update from a website called cricketdata.org using the web API.
