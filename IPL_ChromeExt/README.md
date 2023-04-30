@@ -1,6 +1,7 @@
 # My_projects
 
-This is simple chrome extension. It fetches the live IPL update from a website called cricketdata.org using the web API.
+This is simple chrome extension.
+It fetches the live IPL update from a website called cricketdata.org using the web API.
 I have learnt this from youtube.
 In this project I learned how to use the fetch javascript method to get data from the server.
 Fetch methods returns a promise object.
